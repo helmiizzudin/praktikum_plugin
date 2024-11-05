@@ -5,4 +5,4 @@
 # Kelas: 2D
 
 ![Screenshoot](assets/images/foto.jpg)
-![Screenshoot](assets/images/Screenshot 2024-11-05 113320.jpg)
+![Screenshoot](assets/images/ss.jpg)
